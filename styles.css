@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+.card{
+	padding:10px;
+	width:400px;
+	background-color:#f1f1f1ff;
+	box-shadow:10px 10px 12px 15px #806669ff;
+}
+.center{
+	display:block;
+	 margin-left: auto;
+  margin-right: auto;
+	width:70%;
+	
+
+}
+h1{
+	text-align:center;
+}
+p{
+	text-align:center;
+	font-weight:bold;
+	font-size:21px
+}
+.buttn{
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+	padding:15px;
+	background-color:#c07490ff;
+	border-radius:10px;
+	color:#c0b4b4ff;
+}
